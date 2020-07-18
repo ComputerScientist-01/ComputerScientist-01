@@ -15,3 +15,5 @@ I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sop
 
 - ⚡ Fun fact: "Remember a few housr of trial and error can save you several minutes of looking at README"
 
+[![Jayvardhan's github stats](https://github-readme-stats.vercel.app/api?username=ComputerScientist-01)](https://github.com/ComputerScientist-01/github-readme-stats)
+
