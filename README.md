@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sophmore. I'm currently learning Django and trying to explore the field of backend development.  
 
-<!--
-**ComputerScientist-01/ComputerScientist-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning HTML, CSS & Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Projects related to Django
+
+- 🤔 I’m looking for help with CSS (duh!)
+
+- 💬 Ask me anything about Programming memes  
+
+- 📫 How to reach me: https://www.linkedin.com/in/rathi406/
+
+- ⚡ Fun fact: "Remember a few housr of trial and error can save you several minutes of looking at README"
+
