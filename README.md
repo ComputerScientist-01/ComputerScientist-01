@@ -7,9 +7,7 @@ I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sop
 
 - 👯 I’m looking to collaborate on Projects related to Django
 
-- 🤔 I’m looking for help with CSS (duh!)
-
-- 💬 Ask me anything about Programming memes  
+- 💬 Ask me anything about Python & C++  
 
 - 📫 How to reach me: https://www.linkedin.com/in/rathi406/
 
