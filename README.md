@@ -11,6 +11,6 @@ I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sop
 
 - 📫 How to reach me: https://www.linkedin.com/in/rathi406/
 
-- ⚡ Fun fact: "Remember a few housr of trial and error can save you several minutes of looking at README"
+- ⚡ Fun fact: "Remember a few hours of trial and error can save you several minutes of looking at README"
 
 [![Jayvardhan's github stats](https://github-readme-stats.vercel.app/api?username=ComputerScientist-01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
