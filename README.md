@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there 👋
 I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sophmore. I'm currently learning Django and trying to explore the field of backend development.  
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Python as an Intern
 
-- 🌱 I’m currently learning HTML, CSS & Django
+- 🌱 I’m currently learning Django from Coursera
 
 - 👯 I’m looking to collaborate on Projects related to Django
 
