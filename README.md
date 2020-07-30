@@ -1,6 +1,9 @@
 ### Hello there 👋
 I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sophmore. I'm currently learning Django and trying to explore the field of backend development.  
 
+## Check out my latest project
+https://jayvardhan-weather-app.herokuapp.com/
+
 - 🔭 I’m currently working on Python as an Intern
 
 - 🌱 I’m currently learning Django from Coursera
