@@ -4,11 +4,11 @@ I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sop
 ## Check out my latest project
 https://jayvardhan-weather-app.herokuapp.com/
 
-- 🔭 I’m currently working on Python as an Intern
+- 🔭 I have worked as a Python Developer Intern
 
-- 🌱 I’m currently learning Django from Coursera
+- 🌱 I’m currently learning Flutter
 
-- 👯 I’m looking to collaborate on Projects related to Django
+- 👯 I’m looking to collaborate on Projects related to Python or Flutter
 
 - 💬 Ask me anything about Python & C++  
 
