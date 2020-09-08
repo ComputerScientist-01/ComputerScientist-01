@@ -16,6 +16,6 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 
 - 📫 How to reach me: https://www.linkedin.com/in/rathi406/
 
-- ⚡ Fun fact: ""
+- ⚡ Fun fact: "My favourite past time is looking at programming memes "
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01)](https://github.com/anuraghazra/github-readme-stats)
