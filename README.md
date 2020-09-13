@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Jayvardhan, a Junior Python developer and a Computer Science Engineering Sophmore. I'm currently learning Django and trying to explore the field of backend development.  
+I'm Jayvardhan, a software developer and a Computer Science Engineering Sophmore. I'm currently learning the magical and vast field of Computer Science  and trying to explore the field .  
 
 ## Check out my latest Python project
 https://jayvardhan-weather-app.herokuapp.com/
@@ -8,11 +8,11 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 
 - 🔭 I have worked as a Python Developer Intern
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and a lot more
 
 - 👯 I’m looking to collaborate on Projects related to Python or Flutter
 
-- 💬 Ask me anything about Python & C++  
+- 💬 Im decent with C++  
 
 - 📫 How to reach me: https://www.linkedin.com/in/rathi406/
 
