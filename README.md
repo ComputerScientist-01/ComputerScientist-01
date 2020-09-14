@@ -7,12 +7,6 @@ https://jayvardhan-weather-app.herokuapp.com/
 ## This is the interactive story app made with Flutter
 https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 
-<h2>Programming Languages and Tools</h2>
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
-
 - 🔭 I have worked as a Python Developer Intern
 
 - 🌱 I’m currently learning Flutter and a lot more
@@ -24,5 +18,11 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 - 📫 How to reach me: https://www.linkedin.com/in/rathi406/
 
 - ⚡ Fun fact: "My favourite past time is looking at programming memes "
+
+<h2>Programming Languages and Tools</h2>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01)](https://github.com/anuraghazra/github-readme-stats)
