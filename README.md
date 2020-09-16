@@ -6,18 +6,9 @@ I'm Jayvardhan, a software developer and a Computer Science Engineering Sophmore
 https://jayvardhan-weather-app.herokuapp.com/
 ## This is the interactive story app made with Flutter
 https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
-
-- 🔭 I have worked as a Python Developer Intern
-
-- 🌱 I’m currently learning Flutter and a lot more
-
-- 👯 I’m looking to collaborate on Projects related to Python or Flutter
-
-- 💬 Im decent with C++  
-
-- 📫 How to reach me: https://www.linkedin.com/in/rathi406/
-
-- ⚡ Fun fact: "My favourite past time is looking at programming memes "
+## Connect with me
+[![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Jayvardhan_Rathi-green.svg)](https://medium.com/@ourmine)
+[![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
 
 <h2>Programming Languages and Tools</h2>
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
