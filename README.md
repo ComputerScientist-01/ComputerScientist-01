@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm Jayvardhan, a software developer and a Computer Science Engineering Sophmore. I'm currently learning the magical and vast field of Computer Science  and trying to explore the field .  
+<h3>I'm Jayvardhan, a software developer and a Computer Science Engineering Sophmore. I'm currently learning the magical and vast field of Computer Science  and trying to explore the field .</h3>  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=Hello!!+You+are+visitor"/>
 
 ## Check out my latest Python project
