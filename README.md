@@ -25,4 +25,7 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
 </p>
 
+## Joke of the day -
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
