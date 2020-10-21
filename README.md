@@ -11,6 +11,7 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 
 <h2>You can find find me on my website here 👇</h2>
 https://jayvardhanrathi.tech
+</br>
 ## Connect with me
 [![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Jayvardhan_Rathi-green.svg)](https://medium.com/@ourmine)
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
