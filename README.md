@@ -4,6 +4,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ComputerScientist-01" alt="harshitaggarwal01" /></a> </p>
+
 ## Check out my latest Python project
 https://jayvardhan-weather-app.herokuapp.com/
 ## This is the interactive story app made with Flutter
