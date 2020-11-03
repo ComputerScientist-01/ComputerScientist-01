@@ -16,9 +16,7 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 ## Connect with me
 [![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Jayvardhan_Rathi-green.svg)](https://medium.com/@ourmine)
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
-<a href="https://dev.to/computerscientist01">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayvardhan Rathi's DEV Profile" height="30" width="30">
-</a>
+
 
 <h2>You can find find me on my website here 👇</h2>
 https://jayvardhanrathi.tech
@@ -31,7 +29,11 @@ https://jayvardhanrathi.tech
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+<a href="https://dev.to/computerscientist01">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayvardhan Rathi's DEV Profile" height="30" width="30">
+</a>
 </p>
+
 
 ## Top Programming Languages by usage --
 <p align="center">
