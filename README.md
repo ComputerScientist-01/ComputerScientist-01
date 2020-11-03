@@ -4,7 +4,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ComputerScientist-01" alt="harshitaggarwal01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ComputerScientist-01" alt="ComputerScientist-01" /></a> </p>
+
 
 ## Check out my latest Python project
 https://jayvardhan-weather-app.herokuapp.com/
@@ -15,6 +16,7 @@ https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
 ## Connect with me
 [![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Jayvardhan_Rathi-green.svg)](https://medium.com/@ourmine)
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
+[![Jayvardhan Rathi's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/computerscientist01)
 
 <h2>You can find find me on my website here 👇</h2>
 https://jayvardhanrathi.tech
