@@ -4,9 +4,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ComputerScientist-01" alt="ComputerScientist-01" /></a> </p>
-
-
 ## Check out my latest Python project
 
 [My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
@@ -24,8 +21,11 @@
 <h2>You can find find me on my website here 👇</h2>
 https://jayvardhanrathi.tech
 
+## You can find find my Resume here 
+📝 [My Resume](https://resume.io/r/EWFouhDzC)
 
-<h2>Programming Languages and Tools</h2>
+
+## Programming Languages and Tools
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -44,7 +44,6 @@ https://jayvardhanrathi.tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff"/>
 </p>
 
-## Joke of the day -
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
