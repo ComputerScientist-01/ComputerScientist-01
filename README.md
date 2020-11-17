@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<h3>I'm Jayvardhan, a  student software developer. I'm currently learning the magical and vast field of Computer Science  and trying to explore the field .</h3>
+<h3>I'm Jayvardhan, a student software developer. I'm currently exploring more about the magical and vast field of Computer Science and trying to explore it's multifarious fields.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
@@ -8,9 +8,12 @@
 
 
 ## Check out my latest Python project
-https://jayvardhan-weather-app.herokuapp.com/
+
+[My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
+
 ## This is the interactive story app made with Flutter
-https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc
+
+[Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
 
 
 ## Connect with me
