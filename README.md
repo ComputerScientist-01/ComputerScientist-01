@@ -24,13 +24,9 @@ An interactive story app made with Flutter  <br>
 - <code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
 
-
-
-
-## Top Programming Languages by usage --
+## My Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ComputerScientist-01&show_icons=true&line_height=40&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&count_private=true&layout=compact&hide=css"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&layout=compact&hide=css"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&layout=compact&hide=css"/>
 </p>
 
 
