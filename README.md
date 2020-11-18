@@ -4,12 +4,11 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
-## Check out my latest Python project
-
+## Check out my latest projects
+A weather app made with Python
 [My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
 
-## This is the interactive story app made with Flutter
-
+An interactive story app made with Flutter
 [Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
 
 
@@ -18,11 +17,12 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
 
 
-<h2>You can find find me on my website here 👇</h2>
+<h2>You can find find my </h2>
+website here 👇
 https://jayvardhanrathi.tech
 
-## You can find find my Resume here 
-📝 [My Resume](https://resume.io/r/PlDFDZqAt)
+📝 Resume here 👇
+[My Resume](https://resume.io/r/PlDFDZqAt)
 
 
 ## Programming Languages and Tools
