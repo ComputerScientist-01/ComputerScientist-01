@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
 ## Check out my latest projects
-A weather app made with Python
+A weather app made with Python <br>
 [My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
 
 An interactive story app made with Flutter
