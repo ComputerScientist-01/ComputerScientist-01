@@ -19,15 +19,13 @@ An interactive story app made with Flutter  <br>
 
 
 ## Programming Languages and Tools
-<p>
 - <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 - <code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
-</p>
-<p align ="centre">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&layout=compact&hide=css"/>
-</p>
+
 
 ## My Stats
 <p >
