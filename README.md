@@ -12,16 +12,13 @@ An interactive story app made with Flutter  <br>
 [Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
 
 ## You can find find my 
-Website here   <br>
+
 [Website](https://jayvardhanrathi.tech)
 
-Resume here  <br>
 [Resume](https://resume.io/r/PlDFDZqAt)
 
-LinkedIn here  <br>
 [LinkedIn](https://www.linkedin.com/in/rathi406/)
 
-Medium here  <br>
 [Medium](https://medium.com/@ourmine)
 
 
