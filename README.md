@@ -8,7 +8,7 @@
 A weather app made with Python <br>
 [My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
 
-An interactive story app made with Flutter
+An interactive story app made with Flutter  <br>
 [Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
 
 
@@ -18,10 +18,10 @@ An interactive story app made with Flutter
 
 
 <h2>You can find find my </h2>
-website here 👇
+Website here 👇  <br>
 https://jayvardhanrathi.tech
 
-📝 Resume here 👇
+Resume here 👇  <br>
 [My Resume](https://resume.io/r/PlDFDZqAt)
 
 
