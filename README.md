@@ -19,12 +19,12 @@ An interactive story app made with Flutter  <br>
 
 
 ## Programming Languages and Tools
-- <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-- <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 - <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 - <code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-- <code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-- <code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+<code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+<code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
 
 
 ## Top Programming Languages by usage --
