@@ -22,7 +22,7 @@
 https://jayvardhanrathi.tech
 
 ## You can find find my Resume here 
-📝 [My Resume](https://resume.io/r/EWFouhDzC)
+📝 [My Resume](https://resume.io/r/PlDFDZqAt)
 
 
 ## Programming Languages and Tools
