@@ -17,10 +17,10 @@ An interactive story app made with Flutter  <br>
 [![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
 
 
-<h2>You can find find my </h2>
+## You can find find my 
 Website here 👇  <br>
-https://jayvardhanrathi.tech
- <br>
+[My Website](https://jayvardhanrathi.tech)
+
 Resume here 👇  <br>
 [My Resume](https://resume.io/r/PlDFDZqAt)
 
