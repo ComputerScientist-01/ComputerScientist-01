@@ -11,18 +11,19 @@ A weather app made with Python <br>
 An interactive story app made with Flutter  <br>
 [Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
 
-
-## Connect with me
-[![Follow_On_Medium](https://img.shields.io/badge/Follow_On_Medium-Jayvardhan_Rathi-green.svg)](https://medium.com/@ourmine)
-[![LinkedIn](https://img.shields.io/badge/Connect_On_LinkedIn-Jayvardhan_Rathi-blue.svg?style=flat)](https://www.linkedin.com/in/rathi406/)
-
-
 ## You can find find my 
-Website here 👇  <br>
-[My Website](https://jayvardhanrathi.tech)
+Website here   <br>
+[Website](https://jayvardhanrathi.tech)
 
-Resume here 👇  <br>
-[My Resume](https://resume.io/r/PlDFDZqAt)
+Resume here  <br>
+[Resume](https://resume.io/r/PlDFDZqAt)
+
+LinkedIn here  <br>
+[LinkedIn](https://www.linkedin.com/in/rathi406/)
+
+Medium here  <br>
+[Medium](https://medium.com/@ourmine)
+
 
 
 ## Programming Languages and Tools
