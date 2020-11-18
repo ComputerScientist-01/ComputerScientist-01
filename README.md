@@ -20,7 +20,7 @@ An interactive story app made with Flutter  <br>
 <h2>You can find find my </h2>
 Website here 👇  <br>
 https://jayvardhanrathi.tech
-<br>
+ <br>
 Resume here 👇  <br>
 [My Resume](https://resume.io/r/PlDFDZqAt)
 
