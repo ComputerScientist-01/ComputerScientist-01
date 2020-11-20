@@ -17,13 +17,11 @@ An interactive story app made with Flutter  <br>
 - [LinkedIn](https://www.linkedin.com/in/rathi406/)
 - [Medium](https://medium.com/@ourmine)
 
+<div align="center">
 
-**Programming Languages and Tools**
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
-<code><img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"></code>
+### Check out my recent Flutter Projects !
 
+</div>
 
 <a href="https://github.com/ComputerScientist-01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-AI-Apps&theme=dark" />
@@ -33,11 +31,7 @@ An interactive story app made with Flutter  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-Projects&theme=dark" />
 </a>
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
 
