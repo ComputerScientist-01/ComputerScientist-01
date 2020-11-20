@@ -34,6 +34,11 @@ An interactive story app made with Flutter  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-Projects&theme=dark" />
 </a>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 
