@@ -17,11 +17,7 @@ An interactive story app made with Flutter  <br>
 - [LinkedIn](https://www.linkedin.com/in/rathi406/)
 - [Medium](https://medium.com/@ourmine)
 
-<div align="center">
-
 ### Check out my recent Flutter Projects !
-
-</div>
 
 <a href="https://github.com/ComputerScientist-01">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-AI-Apps&theme=dark" />
