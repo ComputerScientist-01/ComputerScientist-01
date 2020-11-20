@@ -26,6 +26,13 @@ An interactive story app made with Flutter  <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&bg_color=20,434343,000000&title_color=ff1493&text_color=fff&layout=compact&hide=css"/>
 
+<a href="https://github.com/ComputerScientist-01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-AI-Apps&theme=dark" />
+</a>
+
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-ProjectsX&theme=dark" />
+</a>
 
 
 
