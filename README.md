@@ -1,4 +1,4 @@
-### Hello there , fellow fuckerss 👋
+### Hello there , fellow developers 👋
 
 <h3>I'm Jayvardhan, a student software developer. I'm currently exploring more about the magical and vast field of Computer Science and trying to explore it's multifarious fields.</h3>
 
