@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
 <p>
-<img align="right" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+<img align="right" src="https://github.com/ComputerScientist-01/ComputerScientist-01/blob/master/images/image.jpg" alt="computer" width="300"/>
 </p>
 
 ## Check out my latest projects
