@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayvardhan Rathi </h1>
-<h3 align="center">An Indian 📱 Mobile App Developer</h3>
+<h3 align="center">A 📱 Mobile App Developer</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
