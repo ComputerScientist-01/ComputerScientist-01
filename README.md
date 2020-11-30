@@ -1,6 +1,6 @@
 ### Hello there , fellow developers 👋
 
-<h3>I'm Jayvardhan, a student software developer. I'm currently exploring more about the magical and vast field of Computer Science and trying to explore it's multifarious fields.</h3>
+<h3>I'm Jayvardhan, a 📱 Mobile App Developer.</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 
