@@ -31,6 +31,25 @@ An interactive story app made with Flutter  <br>
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Flutter-Projects&theme=dark" />
 </a>
 
+## Frameworks and Languages
+
+![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-649ad2?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+## Tools and Platform
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+
+
+
+
 
 
 
