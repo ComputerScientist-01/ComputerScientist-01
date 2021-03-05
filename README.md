@@ -21,14 +21,6 @@ An interactive story app made with Flutter  <br>
 - [LinkedIn](https://www.linkedin.com/in/rathi406/)
 - [Medium](https://medium.com/@ourmine)
 
-<details>
-  <summary>My Github Stats</summary>
-  <br/>
-  <p>
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComputerScientist-01&layout=compact&show_icons=true&theme=tokyonight">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ComputerScientist-01&show_icons=true&theme=tokyonight">
-  <p>
-</details>
 
 ## Frameworks and Languages
 
