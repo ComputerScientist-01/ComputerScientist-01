@@ -40,11 +40,11 @@ An interactive story app made with Flutter  <br>
 
 ### Check out my recent Repositories !
 
-<a href="https://github.com/ComputerScientist-01">
+<a href="https://github.com/ComputerScientist-01/E-Commerce-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=E-Commerce-API&theme=dark" />
 </a>
 
-<a href="https://github.com/ComputerScientist-0">
+<a href="https://github.com/ComputerScientist-01/Advanced-Programming-Practice">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Advanced-Programming-Practice&theme=dark" />
 </a>
 
