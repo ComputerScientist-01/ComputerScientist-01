@@ -7,20 +7,29 @@
 <img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 </p>
 
-## Check out my latest projects
+<h1 align="center">
+  <b>Check out my latest projects</b><br>
+</h1>
 
-A weather app made with Python <br>
-[My Weather App](https://jayvardhan-weather-app.herokuapp.com/)
+<p align="center">
+  <b>A weather app made with Python </b><br>
+  <a href="https://jayvardhan-weather-app.herokuapp.com/">My Weather App</a>
+  <br>
+</p>
 
-An interactive story app made with Flutter <br>
-[Flutter Story App](https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc)
+<p align="center">
+  <b>An interactive story app made with Flutter</b><br>
+  <a href="https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc">Flutter Story App</a>
+</p>
 
-**You can find me on these platforms**
-
-- [Website](https://jayvardhanrathi.tech)
-- [Resume](https://resume.io/r/PlDFDZqAt)
-- [LinkedIn](https://www.linkedin.com/in/rathi406/)
-- [Medium](https://medium.com/@ourmine)
+<p align="center">
+    <b>You can find me on these platforms</b><br>
+  <a href="https://jayvardhanrathi.tech">Website</a> |
+  <a href="https://resume.io/r/PlDFDZqAt">Resume</a> |
+  <a href="https://www.linkedin.com/in/rathi406/">LinkedIn</a>|
+  <a href="https://medium.com/@ourmine">Medium</a>
+  <br><br>
+</p>
 
 ## Frameworks and Languages
 
