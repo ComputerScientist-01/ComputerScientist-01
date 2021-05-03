@@ -39,7 +39,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-fffff?style=for-the-badge&logo=Node.js&logoColor=fffff)
 
 
-### Check out my recent Repositories !
+### Check out my recent Repositories!
 
 <a href="https://github.com/ComputerScientist-01/E-Commerce-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=E-Commerce-API&theme=dark" />
