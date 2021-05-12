@@ -48,3 +48,19 @@
 <a href="https://github.com/ComputerScientist-01/Advanced-Programming-Practice">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Advanced-Programming-Practice&theme=dark" />
 </a>
+
+<br>
+<hr>
+
+<details>
+<summary>My Github Stats</summary>
+  <br/>
+  <p>
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerScientist-01&theme=monokai">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ComputerScientist-01&theme=monokai">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ComputerScientist-01&theme=monokai">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ComputerScientist-01&theme=monokai">
+    <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ComputerScientist-01&theme=monokai">
+	  
+  <p>
+</details>
