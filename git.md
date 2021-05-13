@@ -10,7 +10,7 @@
     # change directory to codebase
     $ cd /file/path/to/code
 
-    # make directory a git repository
+    # make directory a git repository (with mkdir)
     $ git init
 ```
 ### ✏️ git add
