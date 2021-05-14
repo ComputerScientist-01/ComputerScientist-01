@@ -7,6 +7,21 @@
 <img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
 </p>
 
+<table>
+  <tr>
+    <td>
+      <h3>About me 👨‍💻</h3>
+    </td>
+    <td>
+      <br>
+      I am currently pursuing the fourth semester of Computer Science & Engineering from SRM IST. During my journey, I've worked on several projects involving Machine Learning, Algorithms & Data Structures, App and Web Development. 
+      <br><br>
+      I'm currently backend development with NodeJS and Express.
+      <br><br>
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">
   <b>Check out my latest projects</b><br>
 </h1>
