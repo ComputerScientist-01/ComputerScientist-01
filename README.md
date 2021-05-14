@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td>
-      <h3>My tech Stack 👨‍💻</h3>
+      <h3>My tech Stack 💻</h3>
     </td>
     <td>
       <br>
@@ -72,34 +72,20 @@
   </tr>
 </table>
 
-<h1 align="center">
-  <b>Check out my latest projects</b><br>
-</h1>
-
-<p align="center">
-  <b>A weather app made with Python </b><br>
-  <a href="https://jayvardhan-weather-app.herokuapp.com/">My Weather App</a>
-  <br>
-</p>
-
-<p align="center">
-  <b>An interactive story app made with Flutter</b><br>
-  <a href="https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc">Flutter Story App</a>
-</p>
-
-</p>
-
----
-
-### Check out my recent Repositories!
-
-<a href="https://github.com/ComputerScientist-01/E-Commerce-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=E-Commerce-API&theme=dark" />
-</a>
-
-<a href="https://github.com/ComputerScientist-01/Advanced-Programming-Practice">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ComputerScientist-01&repo=Advanced-Programming-Practice&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td>
+      <h3>My Projects ✏️</h3>
+    </td>
+    <td>
+      <br>
+      🌪️ <a href="https://jayvardhan-weather-app.herokuapp.com/">Weather App</a> (<a href="">repo</a>) - A weather app that shows 5 day weather forecast with lots of other cool features<br><br>
+      📖 <a href="https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc">Flutter Story App</a> (<a href="https://github.com/ComputerScientist-01/InteractiveStoryApp">repo</a>) -An interactive story app made with Flutter<br><br>
+      🛒 E-Commerce-API (<a href="https://github.com/ComputerScientist-01/E-Commerce-API">repo</a>) - A basic single-page website which serves mainly as a portal to other projects<br><br>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
