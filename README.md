@@ -19,11 +19,13 @@
       I'm currently backend development with NodeJS and Express.
       <br><br>
       <p>
-    <b>You can find me on these platforms</b><br>
+    <b>More about me :</b><br>
    <a href="https://jayvardhanrathi.tech">Website</a> |
 <a href="https://resume.io/r/PlDFDZqAt">Resume</a> |
 <a href="https://www.linkedin.com/in/rathi406/">LinkedIn</a>|
-<a href="https://medium.com/@ourmine">Medium</a>
+<a href="https://medium.com/@ourmine">Medium</a>|
+<a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats</a>
+	      
 <br><br>
 
   </td>
@@ -91,7 +93,7 @@
 <hr>
 
 <details>
-<summary>My Github Stats</summary>
+<summary>/summary>
   <br/>
   <p>
     <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ComputerScientist-01&theme=monokai">
