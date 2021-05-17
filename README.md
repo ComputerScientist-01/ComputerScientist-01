@@ -16,7 +16,7 @@
       <br>
       I am currently pursuing the fourth semester of Computer Science & Engineering from SRM IST. During my journey, I've worked on several projects involving Machine Learning, Algorithms & Data Structures, App and Web Development. 
       <br><br>
-      I'm currently backend development with NodeJS and Express.
+      I'm currently learning backend development with NodeJS and Express.
       <br><br>
       <p>
     <b>More about me :</b><br>
