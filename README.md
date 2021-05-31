@@ -20,11 +20,15 @@
       <br><br>
       <p>
     <b>More about me :</b><br>
-   <a href="https://jayvardhanrathi.tech">Website</a> |
-<a href="https://resume.io/r/PlDFDZqAt">Resume</a> |
-<a href="https://www.linkedin.com/in/rathi406/">LinkedIn</a>|
-<a href="https://medium.com/@ourmine">Medium</a>|
-<a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats</a>
+<a href="https://jayvardhanrathi.tech">Website </a> |
+<a href="https://resume.io/r/PlDFDZqAt">Resume </a> |
+<a href="https://www.linkedin.com/in/rathi406/">LinkedIn </a> |
+<a href="https://medium.com/@ourmine">Medium </a> |
+<a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats </a> |
+<a href="https://https://leetcode.com/jayvardhan/">Leetcode </a> |
+<a href="https://www.codechef.com/users/ml_engineer">Codechef </a> |
+<a href="https://www.hackerrank.com/rathi406">HackerRank </a>
+	      
 	      
 <br><br>
 
