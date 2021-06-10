@@ -3,9 +3,7 @@
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired"/>
-</p>
+
 
 <table>
   <tr>
@@ -27,10 +25,9 @@
 <a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats </a> |
 <a href="https://https://leetcode.com/jayvardhan/">Leetcode </a> |
 <a href="https://www.codechef.com/users/ml_engineer">Codechef </a> |
-<a href="https://www.hackerrank.com/rathi406">HackerRank </a>
-	      
-	      
-<br><br>
+<a href="https://www.hackerrank.com/rathi406">HackerRank </a> | 
+<img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired" width = "13%"/>
+
 
   </td>
 
@@ -88,7 +85,6 @@
       🌪️ <a href="https://jayvardhan-weather-app.herokuapp.com/">Weather App</a> (<a href="">repo</a>) - A weather app that shows 5 day weather forecast with lots of other cool features<br><br>
       📖 <a href="https://appetize.io/app/tc0311ukuehq8b265hv2yrkmqc">Flutter Story App</a> (<a href="https://github.com/ComputerScientist-01/InteractiveStoryApp">repo</a>) -An interactive story app made with Flutter<br><br>
       🛒 E-Commerce-API (<a href="https://github.com/ComputerScientist-01/E-Commerce-API">repo</a>) - A basic single-page website which serves mainly as a portal to other projects<br><br>
-      <br><br>
     </td>
   </tr>
 </table>
