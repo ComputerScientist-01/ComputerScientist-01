@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/rathi406/">LinkedIn </a> |
 <a href="https://medium.com/@ourmine">Medium </a> |
 <a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats </a> |
-<a href="https://https://leetcode.com/jayvardhan/">Leetcode </a> |
+<a href="https://leetcode.com/jayvardhan/">Leetcode </a> |
 <a href="https://www.codechef.com/users/ml_engineer">Codechef </a> |
 <a href="https://www.hackerrank.com/rathi406">HackerRank </a> | 
 <img src="https://komarev.com/ghpvc/?username=ComputerScientist-01&color=green&label=+Developers+Inspired" width = "13%"/>
