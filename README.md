@@ -54,15 +54,6 @@
       <br>
 
   </td>
-
-  <td>
-      <br>
-      <img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25" /> 
-      <br>
-      <img style="margin: 10px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25" />
-      <br>
-
-  </td>
   <td>
       <br>
       <img style="margin: 10px" src="https://img.shields.io/badge/C++-649ad2?style=for-the-badge&logo=c%2B%2B&logoColor=white"  height="25" /> 
