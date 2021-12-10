@@ -18,7 +18,7 @@
       <br><br>
       <p>
     <b>More about me :</b><br>
-<a href="https://jayvardhan.glitch.me/">Website </a> |
+<a href="https://bit.ly/JayWeb">Website </a> |
 <a href="https://bit.ly/Jayvardhan">Resume </a> |
 <a href = "https://github.com/ComputerScientist-01/github-profile-summary" >My Github Stats </a> |
 <a href="https://leetcode.com/jayvardhan/">Leetcode </a> |
