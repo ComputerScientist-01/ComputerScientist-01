@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://jayvardhanrathi.tech">
+<a href="https://jayvardhan.glitch.me/">
 	<img src="https://user-images.githubusercontent.com/39644109/110592126-e6fc2700-819f-11eb-9ca5-8827418963c7.png" width=80%/>
 </a>
 </p>
