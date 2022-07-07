@@ -12,7 +12,7 @@
     </td>
     <td>
       <br>
-      I am currently pursuing the fifth semester of Computer Science & Engineering from SRM IST. During my journey, I've worked on several projects involving Machine Learning, Algorithms & Data Structures, App and Web Development. 
+      I am currently pursuing the seventh semester of Computer Science & Engineering from SRM IST. During my journey, I've worked on several projects involving Machine Learning, Algorithms & Data Structures, App and Web Development. 
       <br><br>
       I'm currently learning backend development with NodeJS and Express.
       <br><br>
