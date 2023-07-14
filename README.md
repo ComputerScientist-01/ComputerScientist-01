@@ -12,9 +12,7 @@
     </td>
     <td>
       <br>
-      I am currently pursuing the seventh semester of Computer Science & Engineering from SRM IST. During my journey, I've worked on several projects involving Machine Learning, Algorithms & Data Structures, App and Web Development. 
-      <br><br>
-      I'm currently learning backend development with NodeJS and Express.
+      I have a strong foundation in software development engineering and am proficient in at least one object-oriented programming language such as C++ and Python. I am familiar with various operating systems, including Android and Linux, and have experience with both relational and NoSQL databases. I am skilled in liaising with business users, architects, and other stakeholders to design, implement, and maintain best-in-class solutions that are scalable, loosely-coupled, efficient, and can run seamlessly across platforms, mobile devices, the internet, and the cloud. I am experienced in using CI/CD pipelines and Agile methodology. I have knowledge of Mobile, Analytics, Cloud, and Digital technology domains. I am capable of designing and implementing solutions that can run on-premises, hybrid, and multi-cloud ecosystems such as GCP, AWS, and Azure. I am able to harness open-source development to leverage collective wisdom and learning. I have an understanding of cyber threats and vulnerabilities and apply secure coding standards and associated protocols. I am able to leverage industry best integration patterns and practices to integrate multiple existing/new building blocks for a seamless end-to-end customer experience. I am skilled in developing, maintaining, and supporting current systems for better efficacy and higher availability.
       <br><br>
       <p>
     <b>More about me :</b><br>
